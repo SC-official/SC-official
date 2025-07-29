@@ -1,6 +1,6 @@
 ## Hello
 
-# 💫 About Me:
+# About Me:
 * I’m currently learning<br>
 
 
